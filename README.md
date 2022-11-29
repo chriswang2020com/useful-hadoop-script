@@ -9,3 +9,5 @@ steps for adding the shell file
 5. add to computer environment for all users #[zwang2654@hadoop102 ~]$ sudo ./bin/xsync /etc/profile.d/my_env.sh
 6. go to opt folder #cd /opt; then source it #source /etc/profile
 7. go to bin folder #cd /zwang2654/bin, then source it #source /etc/profile
+## explaination for script functions
+# 
